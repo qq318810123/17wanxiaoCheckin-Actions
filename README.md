@@ -2,7 +2,7 @@
 
 
 
-**🤺2021.01:21：试图修复可能会出现的登录失败，修复账号打卡失败脚本停止，添加 QQ 邮箱推送（写 bug ）**
+**🤺2021.01:21：试图修复可能会出现的登录失败，修复账号打卡失败脚本停止，添加 QQ 邮箱推送（写 bug ）** 
 
 **🎭2021.01.20：完美校园更换过登录接口，之前的在 GitHub 上无法使用，已修复（由 [@llkhs](https://github.com/llkhs) 提供方法）**
 
@@ -24,7 +24,7 @@
 
 感谢 [@zhongbr](https://github.com/zhongbr) 的完美校园逆向登录分析代码的分享：[完美校园模拟登录](https://github.com/zhongbr/wanmei_campus)
 
-之前的抓包教程请前往：[完美校园抓包打卡](https://github.com/ReaJason/17wanxiaoCheckin-Actions/blob/master/README_LAST.md)，本项目使用方法，请参考此页面下面
+之前的抓包教程请前往：[完美校园抓包打卡](https://github.com/ReaJason/17wanxiaoCheckin-Actions/blob/master/README_LAST.md)，本项目使用方法，请参考此页面下面  
 
 图片无法加载，可以前往我的博客查看 [使用方法](https://reajason.top/2020/06/28/17wanxiaoCheckin/#%E4%B8%89%E3%80%81%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95)（加载也可能很慢）
 
